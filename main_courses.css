@@ -78,7 +78,7 @@ h2{
 .ingre_a{
     margin-left: 200px;
     margin-right: 200px;
-    background-image: url(../images/beef_stew.png);
+    background-image: url(images/beef_stew.png);
     background-position: center;
     background-size: cover;
     text-shadow:
@@ -92,7 +92,7 @@ h2{
 .ingre_b{
     margin-left: 200px;
     margin-right: 200px;
-    background-image: url(../images/h_chicken.png);
+    background-image: url(images/h_chicken.png);
     background-position: center;
     background-size: cover;
     text-shadow:
@@ -105,7 +105,7 @@ h2{
 .ingre_c{
     margin-left: 200px;
     margin-right: 200px;
-    background-image: url(../images/m_stroganoff.png);
+    background-image: url(images/m_stroganoff.png);
     background-position: center;
     background-size: cover;
     text-shadow:
