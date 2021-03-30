@@ -66,6 +66,8 @@ h1{
 }
 
 p{
+    background-image: url(/images/apple_pie.png);
+    background-size:cover;
     font-family: "Montserrat", sans-serrif;
     font-size: 30px;
     box-sizing: border-box;
@@ -74,8 +76,6 @@ p{
     padding-top: 100px;
     width:540px;
     height:360px;
-    background-image: url(/images/apple_pie.png);
-    background-size:cover;
     color: rgb(255, 255, 255);
     text-shadow:
     -1px -1px 0 black,
@@ -110,6 +110,8 @@ p:hover{
 }
 
 .blurb_b{
+    background-image: url(/images/beef_stew.png);
+    background-size:cover;
     font-family: "Montserrat", sans-serrif;
     font-size: 30px;
     box-sizing: border-box;
@@ -119,8 +121,6 @@ p:hover{
     padding-top: 100px;
     width:540px;
     height:360px;
-    background-image: url(/images/beef_stew.png);
-    background-size:cover;
     color: rgb(255, 255, 255);
     text-shadow:
     -1px -1px 0 black,
@@ -141,6 +141,8 @@ p:hover{
 }
 
 .blurb_c{
+    background-image: url(/images/tom_soup.png);
+    background-size:cover;
     font-family: "Montserrat", sans-serrif;
     font-size: 30px;
     box-sizing: border-box;
@@ -151,8 +153,6 @@ p:hover{
     padding-top: 100px;
     width:540px;
     height:360px;
-    background-image: url(/images/tom_soup.png);
-    background-size:cover;
     color: rgb(255, 255, 255);
     text-shadow:
     -1px -1px 0 black,
