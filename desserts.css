@@ -78,7 +78,7 @@ h2{
 .ingre_a{
     margin-left: 200px;
     margin-right: 200px;
-    background-image: url(../images/apple_pie.png);
+    background-image: url(images/apple_pie.png);
     background-position: center;
     background-size: cover;
     text-shadow:
@@ -92,7 +92,7 @@ h2{
 .ingre_b{
     margin-left: 200px;
     margin-right: 200px;
-    background-image: url(../images/cheese_cake.png);
+    background-image: url(images/cheese_cake.png);
     background-position: center;
     background-size: cover;
     text-shadow:
@@ -105,7 +105,7 @@ h2{
 .ingre_c{
     margin-left: 200px;
     margin-right: 200px;
-    background-image: url(../images/choc_cake.png);
+    background-image: url(images/choc_cake.png);
     background-position: center;
     background-size: cover;
     text-shadow:
