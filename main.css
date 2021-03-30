@@ -66,7 +66,7 @@ h1{
 }
 
 p{
-    background-image: url(/images/apple_pie.png);
+    background-image: url(images/apple_pie.png);
     background-size:cover;
     font-family: "Montserrat", sans-serrif;
     font-size: 30px;
@@ -110,7 +110,7 @@ p:hover{
 }
 
 .blurb_b{
-    background-image: url(/images/beef_stew.png);
+    background-image: url(images/beef_stew.png);
     background-size:cover;
     font-family: "Montserrat", sans-serrif;
     font-size: 30px;
@@ -141,7 +141,7 @@ p:hover{
 }
 
 .blurb_c{
-    background-image: url(/images/tom_soup.png);
+    background-image: url(images/tom_soup.png);
     background-size:cover;
     font-family: "Montserrat", sans-serrif;
     font-size: 30px;
